@@ -1,0 +1,19 @@
+D:\Users\1337745\documents\visual studio 2012\Projects\Caffe\Caffe\bin\Debug\Caffe.exe.config
+D:\Users\1337745\documents\visual studio 2012\Projects\Caffe\Caffe\bin\Debug\Caffe.exe
+D:\Users\1337745\documents\visual studio 2012\Projects\Caffe\Caffe\bin\Debug\Caffe.pdb
+D:\Users\1337745\documents\visual studio 2012\Projects\Caffe\Caffe\obj\Debug\Caffe.csprojResolveAssemblyReference.cache
+D:\Users\1337745\documents\visual studio 2012\Projects\Caffe\Caffe\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Users\1337745\documents\visual studio 2012\Projects\Caffe\Caffe\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Users\1337745\documents\visual studio 2012\Projects\Caffe\Caffe\obj\Debug\Caffe.csproj.GenerateResource.Cache
+D:\Users\1337745\documents\visual studio 2012\Projects\Caffe\Caffe\obj\Debug\Caffe.exe
+D:\Users\1337745\documents\visual studio 2012\Projects\Caffe\Caffe\obj\Debug\Caffe.pdb
+C:\Users\Nick\Desktop\Gateway Projects\Cafe\Caffe\Caffe\bin\Debug\Caffe.exe.config
+C:\Users\Nick\Desktop\Gateway Projects\Cafe\Caffe\Caffe\bin\Debug\Caffe.exe
+C:\Users\Nick\Desktop\Gateway Projects\Cafe\Caffe\Caffe\bin\Debug\Caffe.pdb
+C:\Users\Nick\Desktop\Gateway Projects\Cafe\Caffe\Caffe\obj\Debug\Caffe.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Gateway Projects\Cafe\Caffe\Caffe\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Nick\Desktop\Gateway Projects\Cafe\Caffe\Caffe\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nick\Desktop\Gateway Projects\Cafe\Caffe\Caffe\obj\Debug\Caffe.csproj.GenerateResource.Cache
+C:\Users\Nick\Desktop\Gateway Projects\Cafe\Caffe\Caffe\obj\Debug\Caffe.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\Gateway Projects\Cafe\Caffe\Caffe\obj\Debug\Caffe.exe
+C:\Users\Nick\Desktop\Gateway Projects\Cafe\Caffe\Caffe\obj\Debug\Caffe.pdb
