@@ -7,13 +7,73 @@ D:\Users\1337745\documents\visual studio 2012\Projects\Caffe\Caffe\obj\Debug\Win
 D:\Users\1337745\documents\visual studio 2012\Projects\Caffe\Caffe\obj\Debug\Caffe.csproj.GenerateResource.Cache
 D:\Users\1337745\documents\visual studio 2012\Projects\Caffe\Caffe\obj\Debug\Caffe.exe
 D:\Users\1337745\documents\visual studio 2012\Projects\Caffe\Caffe\obj\Debug\Caffe.pdb
-C:\Users\Nick\Desktop\Gateway Projects\Cafe\Caffe\Caffe\bin\Debug\Caffe.exe.config
-C:\Users\Nick\Desktop\Gateway Projects\Cafe\Caffe\Caffe\bin\Debug\Caffe.exe
-C:\Users\Nick\Desktop\Gateway Projects\Cafe\Caffe\Caffe\bin\Debug\Caffe.pdb
-C:\Users\Nick\Desktop\Gateway Projects\Cafe\Caffe\Caffe\obj\Debug\Caffe.csprojResolveAssemblyReference.cache
-C:\Users\Nick\Desktop\Gateway Projects\Cafe\Caffe\Caffe\obj\Debug\WindowsFormsApplication1.Form1.resources
-C:\Users\Nick\Desktop\Gateway Projects\Cafe\Caffe\Caffe\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
-C:\Users\Nick\Desktop\Gateway Projects\Cafe\Caffe\Caffe\obj\Debug\Caffe.csproj.GenerateResource.Cache
-C:\Users\Nick\Desktop\Gateway Projects\Cafe\Caffe\Caffe\obj\Debug\Caffe.csproj.CoreCompileInputs.cache
-C:\Users\Nick\Desktop\Gateway Projects\Cafe\Caffe\Caffe\obj\Debug\Caffe.exe
-C:\Users\Nick\Desktop\Gateway Projects\Cafe\Caffe\Caffe\obj\Debug\Caffe.pdb
+D:\Users\1337745\Desktop\Microcomputer Programming\Caffe\Caffe\bin\Debug\Caffe.exe.config
+D:\Users\1337745\Desktop\Microcomputer Programming\Caffe\Caffe\obj\Debug\Caffe.exe
+D:\Users\1337745\Desktop\Microcomputer Programming\Caffe\Caffe\obj\Debug\Caffe.pdb
+D:\Users\1337745\Desktop\Microcomputer Programming\Caffe\Caffe\bin\Debug\Caffe.exe
+D:\Users\1337745\Desktop\Microcomputer Programming\Caffe\Caffe\bin\Debug\Caffe.pdb
+D:\Users\1337745\Desktop\Microcomputer Programming\Caffe\Caffe\obj\Debug\Caffe.csprojResolveAssemblyReference.cache
+D:\Users\1337745\Desktop\Microcomputer Programming\Caffe\Caffe\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Users\1337745\Desktop\Microcomputer Programming\Caffe\Caffe\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Users\1337745\Desktop\Microcomputer Programming\Caffe\Caffe\obj\Debug\Caffe.csproj.GenerateResource.Cache
+C:\Users\Mykola\Desktop\Caffe\Caffe\Caffe\bin\Debug\Caffe.exe.config
+C:\Users\Mykola\Desktop\Caffe\Caffe\Caffe\obj\Debug\Caffe.exe
+C:\Users\Mykola\Desktop\Caffe\Caffe\Caffe\obj\Debug\Caffe.pdb
+C:\Users\Mykola\Desktop\Caffe\Caffe\Caffe\bin\Debug\Caffe.exe
+C:\Users\Mykola\Desktop\Caffe\Caffe\Caffe\bin\Debug\Caffe.pdb
+C:\Users\Mykola\Desktop\Caffe\Caffe\Caffe\obj\Debug\Caffe.csprojResolveAssemblyReference.cache
+C:\Users\Mykola\Desktop\Caffe\Caffe\Caffe\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mykola\Desktop\Caffe\Caffe\Caffe\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mykola\Desktop\Caffe\Caffe\Caffe\obj\Debug\Caffe.csproj.GenerateResource.Cache
+C:\Users\Mykola\Desktop\Caffe - Copy\Caffe\Caffe\bin\Debug\Caffe.exe.config
+C:\Users\Mykola\Desktop\Caffe - Copy\Caffe\Caffe\obj\Debug\Caffe.exe
+C:\Users\Mykola\Desktop\Caffe - Copy\Caffe\Caffe\obj\Debug\Caffe.pdb
+C:\Users\Mykola\Desktop\Caffe - Copy\Caffe\Caffe\bin\Debug\Caffe.exe
+C:\Users\Mykola\Desktop\Caffe - Copy\Caffe\Caffe\bin\Debug\Caffe.pdb
+C:\Users\Mykola\Desktop\Caffe - Copy\Caffe\Caffe\obj\Debug\Caffe.csprojResolveAssemblyReference.cache
+C:\Users\Mykola\Desktop\Caffe - Copy\Caffe\Caffe\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mykola\Desktop\Caffe - Copy\Caffe\Caffe\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mykola\Desktop\Caffe - Copy\Caffe\Caffe\obj\Debug\Caffe.csproj.GenerateResource.Cache
+C:\Users\Mykola\Desktop\CaffeWith Files_TokaM\Caffe\Caffe\bin\Debug\Caffe.exe.config
+C:\Users\Mykola\Desktop\CaffeWith Files_TokaM\Caffe\Caffe\obj\Debug\Caffe.exe
+C:\Users\Mykola\Desktop\CaffeWith Files_TokaM\Caffe\Caffe\obj\Debug\Caffe.pdb
+C:\Users\Mykola\Desktop\CaffeWith Files_TokaM\Caffe\Caffe\bin\Debug\Caffe.exe
+C:\Users\Mykola\Desktop\CaffeWith Files_TokaM\Caffe\Caffe\bin\Debug\Caffe.pdb
+C:\Users\Mykola\Desktop\CaffeWith Files_TokaM\Caffe\Caffe\obj\Debug\Caffe.csprojResolveAssemblyReference.cache
+C:\Users\Mykola\Desktop\CaffeWith Files_TokaM\Caffe\Caffe\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mykola\Desktop\CaffeWith Files_TokaM\Caffe\Caffe\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mykola\Desktop\CaffeWith Files_TokaM\Caffe\Caffe\obj\Debug\Caffe.csproj.GenerateResource.Cache
+C:\Users\Mykola\Desktop\MicroComputer C#\CaffeWith Files_TokaM\Caffe\Caffe\bin\Debug\Caffe.exe.config
+C:\Users\Mykola\Desktop\MicroComputer C#\CaffeWith Files_TokaM\Caffe\Caffe\obj\Debug\Caffe.exe
+C:\Users\Mykola\Desktop\MicroComputer C#\CaffeWith Files_TokaM\Caffe\Caffe\obj\Debug\Caffe.pdb
+C:\Users\Mykola\Desktop\MicroComputer C#\CaffeWith Files_TokaM\Caffe\Caffe\bin\Debug\Caffe.exe
+C:\Users\Mykola\Desktop\MicroComputer C#\CaffeWith Files_TokaM\Caffe\Caffe\bin\Debug\Caffe.pdb
+C:\Users\Mykola\Desktop\MicroComputer C#\CaffeWith Files_TokaM\Caffe\Caffe\obj\Debug\Caffe.csprojResolveAssemblyReference.cache
+C:\Users\Mykola\Desktop\MicroComputer C#\CaffeWith Files_TokaM\Caffe\Caffe\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mykola\Desktop\MicroComputer C#\CaffeWith Files_TokaM\Caffe\Caffe\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mykola\Desktop\MicroComputer C#\CaffeWith Files_TokaM\Caffe\Caffe\obj\Debug\Caffe.csproj.GenerateResource.Cache
+C:\Users\Mykola\Desktop\C# class, 2017\CaffeWith Files_TokaM\Caffe\Caffe\bin\Debug\Caffe.exe.config
+C:\Users\Mykola\Desktop\C# class, 2017\CaffeWith Files_TokaM\Caffe\Caffe\obj\Debug\Caffe.exe
+C:\Users\Mykola\Desktop\C# class, 2017\CaffeWith Files_TokaM\Caffe\Caffe\obj\Debug\Caffe.pdb
+C:\Users\Mykola\Desktop\C# class, 2017\CaffeWith Files_TokaM - Copy\Caffe\Caffe\bin\Debug\Caffe.exe.config
+C:\Users\Mykola\Desktop\C# class, 2017\CaffeWith Files_TokaM - Copy\Caffe\Caffe\obj\Debug\Caffe.exe
+C:\Users\Mykola\Desktop\C# class, 2017\CaffeWith Files_TokaM - Copy\Caffe\Caffe\obj\Debug\Caffe.pdb
+C:\Users\Mykola\Desktop\C# class, 2017\CaffeWith Files_TokaM - Copy\Caffe\Caffe\bin\Debug\Caffe.exe
+C:\Users\Mykola\Desktop\C# class, 2017\CaffeWith Files_TokaM - Copy\Caffe\Caffe\bin\Debug\Caffe.pdb
+C:\Users\Mykola\Desktop\C# class, 2017\CaffeWith Files_TokaM - Copy\Caffe\Caffe\obj\Debug\Caffe.csprojResolveAssemblyReference.cache
+C:\Users\Mykola\Desktop\C# class, 2017\CaffeWith Files_TokaM - Copy\Caffe\Caffe\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mykola\Desktop\C# class, 2017\CaffeWith Files_TokaM - Copy\Caffe\Caffe\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mykola\Desktop\C# class, 2017\CaffeWith Files_TokaM - Copy\Caffe\Caffe\obj\Debug\Caffe.csproj.GenerateResource.Cache
+C:\Users\Mykola\Desktop\C# class, 2017\CaffeWithDatabase\Caffe\Caffe\bin\Debug\Caffe.exe.config
+C:\Users\Mykola\Desktop\C# class, 2017\CaffeWithDatabase\Caffe\Caffe\obj\Debug\Caffe.exe
+C:\Users\Mykola\Desktop\C# class, 2017\CaffeWithDatabase\Caffe\Caffe\obj\Debug\Caffe.pdb
+C:\Users\Nick\Desktop\Gateway Projects\CaffeWithDatabase\CaffeWithDatabase\Caffe\Caffe\bin\Debug\Caffe.exe.config
+C:\Users\Nick\Desktop\Gateway Projects\CaffeWithDatabase\CaffeWithDatabase\Caffe\Caffe\bin\Debug\Caffe.exe
+C:\Users\Nick\Desktop\Gateway Projects\CaffeWithDatabase\CaffeWithDatabase\Caffe\Caffe\bin\Debug\Caffe.pdb
+C:\Users\Nick\Desktop\Gateway Projects\CaffeWithDatabase\CaffeWithDatabase\Caffe\Caffe\obj\Debug\Caffe.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Gateway Projects\CaffeWithDatabase\CaffeWithDatabase\Caffe\Caffe\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Nick\Desktop\Gateway Projects\CaffeWithDatabase\CaffeWithDatabase\Caffe\Caffe\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nick\Desktop\Gateway Projects\CaffeWithDatabase\CaffeWithDatabase\Caffe\Caffe\obj\Debug\Caffe.csproj.GenerateResource.Cache
+C:\Users\Nick\Desktop\Gateway Projects\CaffeWithDatabase\CaffeWithDatabase\Caffe\Caffe\obj\Debug\Caffe.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\Gateway Projects\CaffeWithDatabase\CaffeWithDatabase\Caffe\Caffe\obj\Debug\Caffe.exe
+C:\Users\Nick\Desktop\Gateway Projects\CaffeWithDatabase\CaffeWithDatabase\Caffe\Caffe\obj\Debug\Caffe.pdb
